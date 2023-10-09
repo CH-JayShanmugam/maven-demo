@@ -3,7 +3,7 @@ package demo;
 public class Thing {
 
     public static void main(String[] args) {
-        //5th_feature
+        //1 feature
         System.out.println("Test");
     }
 
