@@ -51,7 +51,7 @@
                 <version>1.20.0</version>
                 <configuration>
                     <gitFlowConfig>
-                        <developmentBranch>master</developmentBranch>
+                        <developmentBranch>develop</developmentBranch>
                     </gitFlowConfig>
                 </configuration>
             </plugin>
