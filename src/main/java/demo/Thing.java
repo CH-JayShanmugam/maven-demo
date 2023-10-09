@@ -3,7 +3,7 @@ package demo;
 public class Thing {
 
     public static void main(String[] args) {
-        //1 feature
+        //PDMX_000 feature.
         System.out.println("Test");
     }
 
