@@ -6,7 +6,7 @@
    
     <groupId>demo</groupId>
     <artifactId>maven-demo</artifactId>
-    <version>0.3.4-RELEASE</version>
+    <version>0.3.5-RELEASE-SNAPSHOT</version>
 
     <name>${project.artifactId}</name>
     <packaging>jar</packaging>
