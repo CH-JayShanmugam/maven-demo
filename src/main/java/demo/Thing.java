@@ -3,7 +3,7 @@ package demo;
 public class Thing {
 
     public static void main(String[] args) {
-        //Hotfix commit
+        //4th_feature
         System.out.println("Test");
     }
 
